@@ -1,0 +1,33 @@
+*
+{ 
+    margin:0;
+    padding: 0;
+}
+.content
+{
+    width: 400px;
+    height: 500px;
+    /* background-color: green; */
+    
+    font-style: italic;
+    font-weight: 300;
+    color: blueviolet;
+    
+}
+.container
+{
+    margin: 15px;
+    padding-left:50px;
+    background-color: lavender;
+    display: flex;
+   
+}
+
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th{
+    text-align: left;
+}
+
